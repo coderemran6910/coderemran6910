@@ -21,6 +21,9 @@
 
 ![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=coderemran6910&show_icons=true&theme=radical)
 
+
+![](https://api.githubtrends.io/user/svg/coderemran6910/repos?time_range=one_year&theme=classic)
+
 </div>
 
 # SKILLS SO FAR
