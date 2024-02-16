@@ -1,5 +1,5 @@
 
-!["Passionate MERN stack developer proficient in React, Tailwind CSS, Express.js, and Firebase. ](https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/409425915_1785584735292302_1324551088370791260_n.png?stp=dst-png_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHH2OFTPHIKvHXP0_c5uczDSIbx-rHv7uJIhvH6se_u4l2scN41qL5iCoXi6QEC-0CJepHpLFIWctRPKrIZDsT4&_nc_ohc=UU2npSXsZyIAX-X1C9S&_nc_ht=scontent.fdac144-1.fna&oh=00_AfCAOoTTGOsgAGNbDJJHixcNoOtbTh_rY1RFPShIvMSNPA&oe=6578969D)
+!["Passionate MERN stack developer proficient in React, Tailwind CSS, Express.js, and Firebase. ](https://scontent.fdac144-1.fna.fbcdn.net/v/t39.30808-6/409425915_1785584735292302_1324551088370791260_n.png?stp=dst-png_p480x480&_nc_cat=110&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHH2OFTPHIKvHXP0_c5uczDSIbx-rHv7uJIhvH6se_u4l2scN41qL5iCoXi6QEC-0CJepHpLFIWctRPKrIZDsT4&_nc_ohc=gWqw-zVFMXQAX_OyZYD&_nc_ht=scontent.fdac144-1.fna&oh=00_AfCmUWYWC7zB_yolNut6Z5gRtBCU0cGnvGP3rHHR7t7bHQ&oe=65D5885D)
 
 <div align="center">
 
